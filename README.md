@@ -1,0 +1,3 @@
+# UnityAndroid3DModel
+
+一个简单的用Unity制作的3D动画模型导入Android项目
